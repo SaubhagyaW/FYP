@@ -19,7 +19,7 @@ const double h = 1;
 // const float h = 1;
 const int MAX_CORNERS = 100;
 const int THRESHOLD = MAX_CORNERS * 0.1;
-const string videoPath = "D:/IIT/Final Year Project/dataset/video_back_1.mp4";
+const string videoPath = "G:/Final Year Project/Prototype/dataset/test_video_1.mp4";
 
 CvPoint2D32f* featuresArray;
 int* heightFromFloor;
